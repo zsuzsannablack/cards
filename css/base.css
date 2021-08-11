@@ -11,6 +11,10 @@
  */
 
 /**
+ * Extend `.card {}` in components.css.
+ */
+
+/**
  * 1) These properties ensure that the cards are next to each other.
  * 2) When a card is hovered over, a transition is applied:
  *   - to the change of every property of the specific card;
